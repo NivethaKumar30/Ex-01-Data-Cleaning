@@ -57,3 +57,8 @@ df.isnull().sum()
 ```
 # OUPUT
 
+# RESULT :
+
+Thus the given data is read,cleansed and cleaned data is saved into the file.
+
+
