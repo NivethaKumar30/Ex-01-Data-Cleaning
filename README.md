@@ -38,5 +38,22 @@ df.head()
 df.info()
 df.isnull().sum()
 ```
+```
+#loan_data
+import pandas as pd
+df = pd.read_csv("/content/Loan_data.csv")
+df.head(5)
+df.info()
+df.isnull().sum()
+#MODE:
+df['Gender'] = df['Gender'].fillna(df['Gender'].mode()[0])
+df['Self_Employed'] = df['Self_Employed'].fillna(df['Self_Employed'].mode()[0])
+df['Dependents'] = df['Dependents'].fillna(df['Dependents'].mode()[0])
+#MEAN and MEDIAN:
+df['LoanAmount'] = df['LoanAmount'].fillna(df['LoanAmount'].median())
+df['Loan_Amount_Term']=df['Loan_Amount_Term'].fillna(df['Loan_Amount_Term'].mean())
+df['Credit_History']=df['Credit_History'].fillna(df['Credit_History'].mean())
+df.isnull().sum()
+```
 # OUPUT
 
