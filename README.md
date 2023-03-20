@@ -77,10 +77,25 @@ MODE,MEAN and FORWARD METHOD
 
 isnull().sum() after cleaning
 
+![ds 2](https://user-images.githubusercontent.com/119559844/226420112-f0d55253-947f-4d7a-90e3-51f7ab31f55e.png)
+
+
 
 Second File:
 
 Loan_Data.csv FILE
+
+
+
+
+INFO
+
+
+
+Isnull.().sum() before cleaning
+
+
+
 
 
 
