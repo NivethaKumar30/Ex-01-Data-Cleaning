@@ -56,6 +56,33 @@ df['Credit_History']=df['Credit_History'].fillna(df['Credit_History'].mean())
 df.isnull().sum()
 ```
 # OUPUT
+First File:
+
+Data_Set.csv FILE
+
+![ds6](https://user-images.githubusercontent.com/119559844/226415678-e6eab64a-1054-4c70-9028-0c874e56dfd3.png)
+
+
+INFO
+
+![ds7](https://user-images.githubusercontent.com/119559844/226415997-af8c9b49-f88d-419f-835c-ffccb546ae27.png)
+
+Isnull.().sum() before cleaning
+
+
+
+MODE,MEAN and FORWARD METHOD
+
+
+
+isnull().sum() after cleaning
+
+
+Second File:
+
+Loan_Data.csv FILE
+
+
 
 # RESULT :
 
