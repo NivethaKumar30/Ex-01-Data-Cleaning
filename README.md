@@ -69,9 +69,13 @@ INFO
 
 Isnull.().sum() before cleaning
 
+![ds 3](https://user-images.githubusercontent.com/119559844/229988412-0d5e2523-e86a-4222-bae4-d15d9203cb13.png)
 
 
 MODE,MEAN and FORWARD METHOD
+
+
+![frwd](https://user-images.githubusercontent.com/119559844/229993986-0b9d82d7-e471-4820-b997-4a3afaa78fcd.png)
 
 
 
@@ -85,18 +89,26 @@ Second File:
 
 Loan_Data.csv FILE
 
-
+![ds 2 2](https://user-images.githubusercontent.com/119559844/229989582-9f95bcfd-3b93-47a4-bf88-8777b84e7df4.png)
 
 
 INFO
 
+![df info1](https://user-images.githubusercontent.com/119559844/229991179-183c6343-713b-4c5b-934d-5e38b6634720.png)
 
 
 Isnull.().sum() before cleaning
 
+![isnull](https://user-images.githubusercontent.com/119559844/229991358-7b2815d6-3493-416f-855d-68c675528d83.png)
 
 
+MODE,MEAN and MEDIAN
 
+![mean and median ](https://user-images.githubusercontent.com/119559844/229991439-b42a5d66-7cd4-4d58-8c33-5633011ec5cd.png)
+
+isnull().sum() after cleaning
+
+![isnull1](https://user-images.githubusercontent.com/119559844/229991478-945212e6-0508-44b9-86bd-2d22920f55b7.png)
 
 
 # RESULT :
